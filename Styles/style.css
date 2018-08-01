@@ -1,0 +1,14 @@
+#flickr{
+    width: 33%;
+    position: absolute;
+    overflow: auto;
+
+}
+#flickr p {
+        vertical-align: middle;
+    border-bottom: 5px;
+}
+#flickr h1{
+    
+    border-top-color: black;
+}
